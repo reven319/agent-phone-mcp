@@ -9,7 +9,7 @@
 * **Name:** `Agent Phone MCP`
 * **Tagline (under 60 chars):**
   > Dedicated phone lines & live call voice tools for AI agents
-* **Link / GitHub:** `https://github.com/your-username/agent-phone-mcp` (or your repo/demo URL)
+* **Link / GitHub:** `https://github.com/reven319/agent-phone-mcp`
 * **Pricing:** `Free` / `Open Source`
 * **Topics / Tags:**
   * `Artificial Intelligence`
